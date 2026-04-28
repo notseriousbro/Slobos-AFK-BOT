@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DOMIN4TORSSMP.aternos.me",
-    "port": 20444,
+    "ip": "DOMIN4TORSMP.aternos.me",
+    "port": 52442,
     "version": "1.21.1"
   },
   "position": {
